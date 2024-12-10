@@ -32,4 +32,4 @@ We analyze the sensitivity of Group-GF to variations in $\alpha$, $\beta$, and $
 
 <br>
 
-We also conducted experiments on the **CAMRa2011** dataset.
+We also conducted experiments on the **CAMRa2011** dataset. (Analysis similar to Mafengwo dataset)
