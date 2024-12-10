@@ -9,15 +9,16 @@
 | 25k     | 30k     | 20k      | 15M          | 12M          |
 | 27k     | 35k     | 22k      | 19.8M        | 15.4M        |  
 
-
+<br>
 
 ### Figure 1
 **Runtime performance of Group-GF across various sizes of synthetic datasets using CPU and GPU. Here, ‘GPU–OOM’ denotes an OOM issue on the GPU**
 ![image](https://github.com/user-attachments/assets/a0142aca-c377-4bb9-b265-021c4127dde5)    
-//
 
-To further validate the scalability of Group-GF, we run experiments by generating large-scale synthetic datasets having varying sizes (in terms of the number of groups, members, items, group-level interactions and member-level interactions). 
-The statistics of each dataset are provided in Table 1. 
-Figure 1 illustrates the runtime performance of Group-GF across various dataset sizes ranging from 0.5M to 15.4M group-level interactions. 
-The experiments were conducted in various hardware environments, utilizing both CPU and GPU configurations. 
-In this large-scale setup, while the use of GPU can deal with datasets with up to approximately 7.5M group-level interactions, the use of CPU shows impressive scalability, processing even the largest dataset with 15.4M group-level interactions in just 9m3s.
+<br>
+
+- Experiments validate Group-GF scalability using large-scale synthetic datasets with varying group, member, and item sizes, as well as interaction levels.
+- Dataset statistics are detailed in Table 1.
+- Runtime performance across dataset sizes (0.5M–15.4M group-level interactions) is shown in Figure 1.
+- Experiments utilized both CPU and GPU configurations across different hardware setups.
+- GPU handles datasets up to 7.5M group-level interactions, while CPU processes the largest dataset (15.4M interactions) in 9m3s.
