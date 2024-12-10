@@ -18,7 +18,7 @@
 | ConsRec                   | 0.7692     | 0.7794      |
 | **Group-GF**              | **0.8384** | **0.8451**  |
 
----
+<br>
 
 **2. Performance comparison between the six representative standard recommendation methods and the four group recommendation methods on the CAMRa2011 dataset in terms of NDCG@5 and NDCG@10.**
 
