@@ -8,7 +8,9 @@
 | 25k     | 30k     | 20k      | 15M          | 12M          |
 | 27k     | 35k     | 22k      | 19.8M        | 15.4M        |
 
+
 **Figure 1: Runtime performance of Group-GF across various sizes of synthetic datasets using CPU and GPU. Here, ‘GPU–OOM’ denotes an OOM issue on the GPU**
+![image](https://github.com/user-attachments/assets/a0142aca-c377-4bb9-b265-021c4127dde5)  
 
 
 To further validate the scalability of Group-GF, we run experiments by generating large-scale synthetic datasets having varying sizes (in terms of the number of groups, members, items, group-level interactions and member-level interactions). 
