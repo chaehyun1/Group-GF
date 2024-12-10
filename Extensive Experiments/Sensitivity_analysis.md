@@ -17,7 +17,11 @@ We analyze the sensitivity of Group-GF to variations in $\alpha$, $\beta$, and $
 - Effect of $s$: NDCG@10 improves as $s$ increases to 0.7, but plateaus and degrades slightly beyond $s=0.8$, indicating a need for balance.
 - Effect of polynomial graph filters: The best performance in NDCG@10 is achieved by using second-order $f_1(\bar{P}_u)$, third-order $f_2(\bar{P}g)$, and third-order $f_3(\bar{P}{\text{uni}})$ filters, capturing nuanced interaction patterns for optimal accuracy.
 
+<br>
+
 ---
+
+<br>
 
 ### Figure 3
 **The effect of three hyperparameters on the NDCG@10 for the CAMRa2011 dataset.**
