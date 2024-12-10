@@ -1,4 +1,5 @@
-**Table 1: The statistics of large-scale synthetic datasets**
+### Table 1
+**The statistics of large-scale synthetic datasets**
 | # Users | # Items | # Groups | # U-I inter. | # G-I inter. |
 |---------|---------|----------|--------------|--------------|
 | 5k      | 10k     | 2.5k     | 1M           | 0.5M         |
@@ -10,9 +11,10 @@
 
 
 
-**Figure 1: Runtime performance of Group-GF across various sizes of synthetic datasets using CPU and GPU. Here, ‘GPU–OOM’ denotes an OOM issue on the GPU**
-![image](https://github.com/user-attachments/assets/a0142aca-c377-4bb9-b265-021c4127dde5)  
-
+### Figure 1
+**Runtime performance of Group-GF across various sizes of synthetic datasets using CPU and GPU. Here, ‘GPU–OOM’ denotes an OOM issue on the GPU**
+![image](https://github.com/user-attachments/assets/a0142aca-c377-4bb9-b265-021c4127dde5)    
+//
 
 To further validate the scalability of Group-GF, we run experiments by generating large-scale synthetic datasets having varying sizes (in terms of the number of groups, members, items, group-level interactions and member-level interactions). 
 The statistics of each dataset are provided in Table 1. 
