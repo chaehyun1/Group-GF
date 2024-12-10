@@ -28,4 +28,6 @@ We analyze the sensitivity of Group-GF to variations in $\alpha$, $\beta$, and $
 **The effect of the polynomial graph filters on the NDCG@10 for the CAMRa2011 dataset.**
 ![image](https://github.com/user-attachments/assets/af1c0fb2-2c11-414e-841f-5c326bdbcb52)
 
+<br>
+
 We also conducted experiments on the **CAMRa2011** dataset.
