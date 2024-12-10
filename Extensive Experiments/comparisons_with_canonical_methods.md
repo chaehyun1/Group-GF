@@ -20,7 +20,7 @@
 
 ---
 
-**Performance comparison between the six representative standard recommendation methods and the four group recommendation methods on the CMARa2011 dataset in terms of NDCG@5 and NDCG@10.**
+**2. Performance comparison between the six representative standard recommendation methods and the four group recommendation methods on the CAMRa2011 dataset in terms of NDCG@5 and NDCG@10.**
 
 | **Method**            | **NDCG@5** | **NDCG@10** |
 |-----------------------|------------|-------------|
