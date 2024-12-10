@@ -1,6 +1,6 @@
 ## Analysis on Different Group Sizes
 
-### Table 2 
+### Table 1
 **1. Performance comparison of group recommendation methods for varying group sizes in terms of NDCG@5.**
 
 | **Group size (top \%)** | **0-20\%** | **20-40\%** | **40-60\%** | **60-80\%** | **80-100\%** |
