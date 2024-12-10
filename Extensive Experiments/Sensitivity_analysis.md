@@ -9,6 +9,7 @@
 **The effect of the polynomial graph filters on the NDCG@10 for the Mafengwo dataset.**
 ![image](https://github.com/user-attachments/assets/0ad59346-11b4-4a77-bc2e-a10983b25e5f)
 
+<br>
 
 We analyze the sensitivity of Group-GF to variations in $\alpha$, $\beta$, and $s$, as well as polynomial graph filters on the **Mafengwo** dataset.
 - Effect of $\alpha$: NDCG@10 improves with increasing $\alpha$ up to 0.3, but decreases beyond that, indicating overemphasis on group interactions harms individual preferences.
