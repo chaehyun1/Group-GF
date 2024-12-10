@@ -24,7 +24,7 @@
 <br>
 
 - We investigate the impact of group sizes on recommendation accuracy using the Mafengwo dataset. 
-- The performance of Group-GF and other well-performing methods (GroupIM, CubeRec, and ConsRec) is summarized in Table 1, focusing on NDCG@$k$ for $k \in \{ 5, 10 \}$ across five group sizes (top 0-20%, 20-40%, 40-60%, 60-80%, and 80-100%).  
+- The performance of Group-GF and other well-performing methods (GroupIM, CubeRec, and ConsRec) is summarized in Table 1, focusing on NDCG@5 and NDCG@10 across five group sizes (top 0-20%, 20-40%, 40-60%, 60-80%, and 80-100%).  
 
 Findings:
 1. For all methods, accuracy improves as group sizes decrease up to the top 40%, then steadily degrades. Smaller group sizes give individual members more influence, which makes it harder to utilize group-level interactions.
