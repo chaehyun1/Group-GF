@@ -10,7 +10,6 @@
 | **ConsRec**             | 0.7620    | 0.7934     | 0.7806     | 0.7137     | 0.7715      |
 | **Group-GF**            | **0.8504**| **0.8739** | **0.8415** | **0.8111** | **0.8101**  |
 
----
 
 **2. Performance comparison of group recommendation methods for varying group sizes in terms of NDCG@10.**
 
