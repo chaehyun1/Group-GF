@@ -6,7 +6,8 @@
 | 15k     | 20k     | 10k      | 6M           | 4M           |
 | 20k     | 25k     | 15k      | 10M          | 7.5M         |
 | 25k     | 30k     | 20k      | 15M          | 12M          |
-| 27k     | 35k     | 22k      | 19.8M        | 15.4M        |
+| 27k     | 35k     | 22k      | 19.8M        | 15.4M        |  
+
 
 
 **Figure 1: Runtime performance of Group-GF across various sizes of synthetic datasets using CPU and GPU. Here, ‘GPU–OOM’ denotes an OOM issue on the GPU**
