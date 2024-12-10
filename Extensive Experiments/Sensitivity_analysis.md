@@ -21,8 +21,6 @@ We analyze the sensitivity of Group-GF to variations in $\alpha$, $\beta$, and $
 
 ---
 
-<br>
-
 ### Figure 3
 **The effect of three hyperparameters on the NDCG@10 for the CAMRa2011 dataset.**
 ![image](https://github.com/user-attachments/assets/b4d0acd8-35af-4283-9791-f6f315080162)
