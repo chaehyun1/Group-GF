@@ -14,6 +14,8 @@ Group recommender systems aim to provide precise recommendations tailored to a c
 Clone the repository and install the necessary dependencies:
 ```bash
 git clone https://github.com/chaehyun1/Group-GF.git
+conda create -n "group_gf" python=3.10.14
+conda activate group_gf
 cd Group-GF
 pip install -r requirements.txt
 ```
