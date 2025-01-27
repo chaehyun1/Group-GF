@@ -13,8 +13,8 @@ def main():
     parser.add_argument(
         "--dataset",
         type=str,
-        default="CAMRa2011",  # Mafengwo or douban
-        help="Either CAMRa2011 or Mafengwo",
+        default="CAMRa2011",  # Mafengwo or Douban
+        help="CAMRa2011, Mafengwo, Douban",
     )
     parser.add_argument(
         "--verbose",
@@ -24,7 +24,7 @@ def main():
     )
     parser.add_argument("--alpha", type=float, default=0.1)
     parser.add_argument("--beta", type=float, default=0.1)
-    parser.add_argument("--power", type=float, default=1, help="For normalization of P")
+    parser.add_argument("--power", type=float, default=1)
     parser.add_argument("--user_filter", type=int, default=1, help="Filter of user")
     parser.add_argument("--group_filter", type=int, default=2, help="Filter of group")
     parser.add_argument("--uni_filter", type=int, default=3, help="Filter of unified")
