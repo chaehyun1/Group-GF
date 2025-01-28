@@ -1,6 +1,5 @@
 import torch
 from utils import *
-import torch
 
 class GroupGF:
     def __init__(self, alpha, beta, power, 
