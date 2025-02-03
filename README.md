@@ -7,7 +7,6 @@ Group recommender systems aim to provide precise recommendations tailored to a c
 
 <img width="812" alt="Image" src="https://github.com/user-attachments/assets/496eabf3-c759-4d1e-9f62-fe833204d46d" />    
 
-![Image](https://github.com/user-attachments/assets/19fd605a-2128-462a-b16b-636425140fdb)
 
 ## Installation  
 Clone the repository and install the necessary dependencies:
