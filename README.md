@@ -3,10 +3,9 @@
 This repository contains the official source code for [Group-GF](url), presented at <ins>WWW 2025</ins>.  
 
 ## Overview  
+<img width="812" alt="Image" src="https://github.com/user-attachments/assets/496eabf3-c759-4d1e-9f62-fe833204d46d" /> 
+
 Group recommender systems aim to provide precise recommendations tailored to a collection of members rather than individuals. To achieve this, capturing the intricate relationships between member-level and group-level interactions is essential for accurate group recommendations. To jointly deal with both member-level and group-level interactions, existing approaches often resort to hypergraph-based and self-supervised learning (SSL)-based methods. However, the aforementioned methods often involve complex hypergraph modeling or expensive model training costs for SSL, which can hinder their responsiveness to rapidly changing member preferences. To address these practical challenges, we propose Group-GF, the first attempt at group recommendations built upon graph filtering (GF). Our Group-GF method is composed of 1) the construction of three item similarity graphs exhibiting different viewpoints and 2) the optimal design of distinct polynomial graph filters that are hardware-friendly without costly matrix decomposition. Through extensive evaluations on benchmark datasets, Group-GF achieves not only state-of-the-art accuracy but also extraordinary runtime efficiency up to 1.55 seconds. In addition, we theoretically connect Group-GF’s filtering process to optimization with smoothness regularization, offering clearer interpretability of the model’s behavior.
-
-<img width="812" alt="Image" src="https://github.com/user-attachments/assets/496eabf3-c759-4d1e-9f62-fe833204d46d" />    
-
 
 ## Installation  
 Clone the repository and install the necessary dependencies:
