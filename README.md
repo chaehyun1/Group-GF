@@ -1,6 +1,6 @@
 # Leveraging Member–Group Relations via Multi-View Graph Filtering for Effective Group Recommendation
 
-This repository contains the official source code for [Group-GF](url), presented at WWW 2025 short paper track.  
+This repository contains the official source code for [Group-GF]([url](https://arxiv.org/pdf/2502.09050)), presented at WWW 2025 short paper track.  
 
 ## Overview  
 <img width="812" alt="Image" src="https://github.com/user-attachments/assets/496eabf3-c759-4d1e-9f62-fe833204d46d" /> 
