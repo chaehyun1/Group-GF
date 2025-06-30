@@ -36,3 +36,13 @@ chmod +x ./run.sh
 
 ## Citation
 If this work was helpful for your project, please kindly cite this in your paper.
+
+```bash
+@inproceedings{kim2025leveraging,
+  title={Leveraging member-group relations via multi-view graph filtering for effective group recommendation},
+  author={Kim, Chae-Hyun and Choi, Yoon-Ryung and Park, Jin-Duk and Shin, Won-Yong},
+  booktitle={Companion Proceedings of the ACM on Web Conference 2025},
+  pages={1077--1081},
+  year={2025}
+}
+```
